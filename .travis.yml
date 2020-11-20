@@ -1,4 +1,3 @@
  language: python
-  script:
-    - generator.py
-    - init.py
+  script: pytest
+    
